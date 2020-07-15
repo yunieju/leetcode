@@ -9,3 +9,4 @@
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)| Medium | Linked List|
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List |
 |34| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium| Binary Search|
+|1513| [Number of Substrings with Only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s/) |Medium| Math |

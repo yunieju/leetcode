@@ -11,3 +11,4 @@
 |34| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium| Binary Search|
 |1513| [Number of Substrings with Only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s/) |Medium| Math |
 |39| [Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium| backtracking & dfs |
+| 48| [Rotate Image](https://leetcode.com/problems/rotate-image/) |Medium| array, pythonic code|

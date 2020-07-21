@@ -14,3 +14,4 @@
 |1513| [Number of Substrings with Only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s/) |Medium| Math |
 |39| [Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium| backtracking & dfs |
 | 48| [Rotate Image](https://leetcode.com/problems/rotate-image/) |Medium| array, pythonic code|
+|62 | [Unique Paths] (https://leetcode.com/problems/unique-paths/) |Medium| Dynamic Programming & Math|

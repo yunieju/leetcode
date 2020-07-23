@@ -15,3 +15,4 @@
 |39| [Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium| backtracking & dfs |
 | 48| [Rotate Image](https://leetcode.com/problems/rotate-image/) |Medium| array, pythonic code|
 |62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |Medium| Dynamic Programming & Math|
+|75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Counting Sort |

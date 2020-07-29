@@ -8,7 +8,8 @@
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)| Easy | Array |
 |1518| [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Math | Stack & Two Pointers |
 |168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | String |
-|844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |Easy| 
+|844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |Easy| String|
+|189| [Rotate Array](https://leetcode.com/problems/rotate-array/) |Easy| Array|
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)| Medium | Linked List|
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List |
 |34| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium| Binary Search|
@@ -16,4 +17,5 @@
 |39| [Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium| backtracking & dfs |
 | 48| [Rotate Image](https://leetcode.com/problems/rotate-image/) |Medium| array, pythonic code|
 |62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |Medium| Dynamic Programming & Math|
-|75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Counting Sort |
+|75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Counting Sort|
+

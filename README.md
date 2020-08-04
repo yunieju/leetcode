@@ -11,6 +11,7 @@
 |844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |Easy| String|
 |189| [Rotate Array](https://leetcode.com/problems/rotate-array/) |Easy| Array|
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |Easy | Hashtable |
+|155| [Minstack](https://leetcode.com/problems/min-stack/)|Easy|Stack|
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)| Medium | Linked List|
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List |
 |34| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium| Binary Search|

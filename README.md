@@ -22,4 +22,5 @@
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Counting Sort|
 |79| [Word Search](https://leetcode.com/problems/word-search/) |Medium| Backtracking |
 |739| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack |
+|394| [Decode String](https://leetcode.com/problems/decode-string/) |Medium| Stack & DFS |
 

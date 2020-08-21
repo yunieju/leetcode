@@ -29,4 +29,5 @@
 |394| [Decode String](https://leetcode.com/problems/decode-string/) |Medium| Stack & DFS |
 |96| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | DP |
 |107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Medium|DFS/BFS, Tree|
+|5| [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium| DP|
 

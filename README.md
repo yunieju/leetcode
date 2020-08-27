@@ -16,6 +16,8 @@
 |108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | BST |
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | DP |
+|203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | Linked List|
+|234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |Easy | Linked List|
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)| Medium | Linked List|
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List |
 |34| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium| Binary Search|

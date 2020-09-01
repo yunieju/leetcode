@@ -19,6 +19,8 @@
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | Linked List|
 |234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |Easy | Linked List|
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy| Array|
+|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|Array|
+|346| [Moving Average from Data stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy| Queue|
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium| Tree|
 |94| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium| Tree|
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Medium| Tree|
@@ -37,4 +39,5 @@
 |107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Medium|DFS/BFS, Tree|
 |5| [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium| DP|
 |221| [Maximal Square](https://leetcode.com/problems/maximal-square/)|Medium| DP|
+|622| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |Medium| Queue |
 

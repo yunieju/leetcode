@@ -40,4 +40,5 @@
 |5| [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium| DP|
 |221| [Maximal Square](https://leetcode.com/problems/maximal-square/)|Medium| DP|
 |622| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |Medium| Queue |
-
+|286| [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | Medium | BFS |
+|707| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | Linked List|

@@ -42,3 +42,5 @@
 |622| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |Medium| Queue |
 |286| [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | Medium | BFS |
 |707| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | Linked List|
+|752| [Open the Lock](https://leetcode.com/problems/open-the-lock)|Medium| BFS|
+|142| [Linked List Cycle 2](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium| Linked List|

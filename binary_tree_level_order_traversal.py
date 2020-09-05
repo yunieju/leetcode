@@ -1,19 +1,21 @@
 class Solution:
     # BFS + queue
-    def levelOrderBottom1(self, root: TreeNode) -> List[List[int]]:
-        q = [(0,root)]
+   class Solution:
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
         res = []
+        q = [(root,0)]
         while q:
-            i, node = q.pop(0)
-            if node:
-                if node.left:
-                    q.append((i+1, node.left))
-                if node.right:
-                    q.append((i+1, node.right))
-                if len(res) < i+1:
-                    res.insert(0, [])
-                res[-(i+1)].append(node.val)
-                    
+            curr,depth = q.pop()
+            if curr:
+                q.append((curr.right, depth + 1))
+                q.append((curr.left, depth + 1))
+            
+                if len(res) <= depth:
+                    res.append([curr.val])
+                else:
+                    res[depth].append(curr.val)
+            
+        
         return res
     
     # DFS recursively

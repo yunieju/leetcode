@@ -21,6 +21,7 @@
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy| Array|
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|Array|
 |346| [Moving Average from Data stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy| Queue|
+|359| [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |Easy | Hash, Queue|
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium| Tree|
 |94| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium| Tree|
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Medium| Tree|
